@@ -12,13 +12,13 @@ Welcome to PY - RPG, a Python-based text-based role-playing game.
 
 Clone the repository:
 
-```shell
+```bash
 git clone https://github.com/jordandarlington/py-rpg.git
 ```
 
 Install dependencies:
 
-```shell
+```bash
 pip install -r requirements.txt
 ```
 
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 To run the program, navigate to the root directory and use the following command:
 
-```shell
+```bash
 python -m src
 ```
 
@@ -34,7 +34,7 @@ python -m src
 
 To run the test suite, navigate to the root directory and use the following command:
 
-```shell
+```bash
 pytest
 ```
 
