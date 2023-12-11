@@ -6,11 +6,37 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+Welcome to PY - RPG, a Python-based text-based role-playing game.
+
 ## Installation
+
+Clone the repository:
+
+```shell
+git clone https://github.com/jordandarlington/py-rpg.git
+```
+
+Install dependencies:
+
+```shell
+pip install -r requirements.txt
+```
 
 ## Usage
 
+To run the program, navigate to the root directory and use the following command:
+
+```shell
+python -m src
+```
+
 ## Testing
+
+To run the test suite, navigate to the root directory and use the following command:
+
+```shell
+pytest
+```
 
 ## License
 
